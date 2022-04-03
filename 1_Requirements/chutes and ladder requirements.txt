@@ -1,0 +1,55 @@
+
+# MY FIRST PROJECT
+
+# "CHUTES & LADDER in C"
+
+# **Introduction :**
+
+CHUTES AND LADDER contains the code for game  in C. 
+This project make an game for the user to play in free their free time it, in which snakes and the ladder game concept is used .
+
+It can be defined as actually simple code structure of game with Switch case  process to be understood by a user. 
+For implementing this project, we may have to use function but in the meantime for easy coding, we may have to switch case statement.
+
+
+
+
+# **Activities :**
+1. New game	
+2. Saved Game 	
+3. Score 
+4. Exit
+
+
+# **Features :**
+1. save game		
+2. resume 
+3. pause
+
+# **Description :**
+=> By Clicking on option "1" you can visit the main game .
+=> By Clicking on option "2" you can visit saved game.
+=> By Clicking on option "3" you can check your score
+=> By Clicking on option "4" you can exit.
+
+
+in next step
+=> By clicking on option "1" you can able to pause.
+=> By clicking on option "2" you can able to resume.
+
+
+
+# Advantages
+
+1. Quick game play.
+2. It is beneficial for freshing up the mind of users .
+3. It ensures privacy to the users .
+4. Maintenance cost is low.
+5. It also provides previous scores, high scores for the user to compete with self or others in terms of score .
+
+
+#Disadvantages
+
+1. It cannot provide high end and diffrent game play to users .
+2. It has the same kind of game play for each time .
+
